@@ -13,12 +13,11 @@ To transition into a Data Engineering role by building strong foundations in Pyt
 | Week | Topics Covered           | Status   |
 |------|---------------------------|----------|
 | 1    | Python Basics             | ✅ Done |
-| 2    | Pandas for Data Handling  | 🔄 Ongoing |
+| 2    | Pandas for Data Handling  | ✅ Done |
 | 3    | SQL Basics                | ⏳ Upcoming |
 | 4    | APIs & JSON               | ⏳ Upcoming |
 | 5    | Data Cleaning & ETL       | ⏳ Upcoming |
 
 ---
 
-## 📁 Folder Structure
 
